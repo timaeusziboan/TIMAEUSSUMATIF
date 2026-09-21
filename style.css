@@ -1,0 +1,27 @@
+body {
+    background-color: gray;
+    font-family: sans-serif;
+    padding-bottom: 30px;
+    padding: 0px 5% 30px;
+}
+
+h1 {
+    color: maroon;
+    text-align: center;
+}
+
+
+h2 {
+    color: whitesmoke;
+}
+
+img {
+    height: 350px;
+width: 290px
+}
+p {
+  color: wheat;
+}
+
+
+
